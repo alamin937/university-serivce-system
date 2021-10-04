@@ -1,0 +1,21 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 70%;
+    margin: 0 auto;
+}
+.header img{
+    width: 250px;
+    color: white;
+}
+.header input{
+    width: 400px;
+    padding: 10px;
+    border-radius: 20px;
+    border: 1px solid grey;
+}
+.header-style{
+    background-color: rgba(255, 166, 0, 0.644);
+    padding: 20px;
+}

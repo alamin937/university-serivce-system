@@ -1,0 +1,9 @@
+.club{
+    background-color: rgb(213, 255, 215);
+    padding: 40px;
+}
+.club h1{
+    margin-top: 0;
+    color:seagreen;
+    font-size: 40px;
+}
